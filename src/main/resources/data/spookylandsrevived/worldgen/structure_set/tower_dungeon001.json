@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "spookylandsrevived:tower_dungeon001",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 7057068,
+    "spacing": 30,
+    "separation": 28
+  }
+}
