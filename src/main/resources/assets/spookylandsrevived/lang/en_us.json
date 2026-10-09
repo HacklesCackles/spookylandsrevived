@@ -1,13 +1,5 @@
 {
-  "itemGroup.spookylandsrevived": "Example Mod Tab",
-  "block.spookylandsrevived.example_block": "Example Block",
-  "item.spookylandsrevived.example_item": "Example Item",
 
-  "spookylandsrevived.configuration.title": "SpookyLandsRevived Configs",
-  "spookylandsrevived.configuration.section.spookylandsrevived.common.toml": "SpookyLandsRevived Configs",
-  "spookylandsrevived.configuration.section.spookylandsrevived.common.toml.title": "SpookyLandsRevived Configs",
-  "spookylandsrevived.configuration.items": "Item List",
-  "spookylandsrevived.configuration.logDirtBlock": "Log Dirt Block",
-  "spookylandsrevived.configuration.magicNumberIntroduction": "Magic Number Text",
-  "spookylandsrevived.configuration.magicNumber": "Magic Number"
+  "spookylandsrevived.configuration.title": "SpookyLandsRevived Configs"
+
 }
